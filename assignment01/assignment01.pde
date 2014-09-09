@@ -40,7 +40,7 @@ void draw() {
   wall.line(30, 200, 30, 220);
   wall.endDraw();
 
-  // draw the wall 2 times at different position
+  // draw the wall 2 times at different positions
   stroke(#660000);
   strokeWeight(2);
   fill(#96160B);
